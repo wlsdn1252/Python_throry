@@ -163,3 +163,4 @@ print("나는 {1}과 {0}을 좋아합니다." .format("언어" , 5)) # index 값
 
 #방법 3
 print("나는 {age}살 이며 {color}색을 좋아합니다." .format(age = 26 , color = "빨간색")) # 변수처럼 사용도 가능하다.
+print("추가하비낟.")
